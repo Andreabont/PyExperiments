@@ -1,0 +1,1 @@
+Dato numero x, si trovi tutte le combinazioni di n operandi che moltiplicati tra loro danno x.
